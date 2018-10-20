@@ -27,7 +27,8 @@ public class HelloWorld {
 		        System.out.println(line);
 		    }
 		    reader.close();
-		
+		    
+		    //Print a blank line
 		    System.out.println();
 		    
 		    
